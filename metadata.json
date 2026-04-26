@@ -1,0 +1,5 @@
+{
+  "name": "MidnightPickleVox Studio",
+  "description": "A professional-grade text-to-speech generator using Gemini latest TTS. Customize voice styles, generate speech from text instructions, and export in multiple audio formats and qualities.",
+  "requestFramePermissions": []
+}
